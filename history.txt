@@ -1,0 +1,12 @@
+
+
+Deploying contracts with the account: 0xb4d881092239f07E90D0e83EE1c99f88B5B18A89
+Account balance: 500000000000000000
+Contract deployed to address: 0x5A376b40fEE69E7a9744B8193b888b394ef79A5F
+
+
+Contract deployed to address: 0x17Ab74aEDcca6d6809A8779494fda7d29fC22c20
+
+
+Mint transaction
+https://sepolia.etherscan.io/tx/0xa63df53efb88f64cd1a320db8c3483a940695275b094ce19fc7fb13f98413e40
